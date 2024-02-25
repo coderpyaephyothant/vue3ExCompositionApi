@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "基本的な使い方",
+            "body": "ビルドステップなしでの Composition API の使用",
+            "tags": [
+                "props へのアクセス",
+                "オブジェクト",
+                "プロパテ"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Setup Context",
+            "body": "Setup Context オブジェクト",
+            "tags": [
+                "context オブジェクトはリアクティブではなく、安全に分割代入",
+                "フルなオブジェクト",
+                "自身が更新された"
+            ]
+        }
+    ]
+}
